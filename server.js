@@ -52,7 +52,7 @@ function createTemplete (data) {
     var date = data.date;
     var heading = data.heading;
     var content = data.content;
-var htmlTemplet=`
+var htmlTemplate =`
 <html>
  <head>
   <title>
