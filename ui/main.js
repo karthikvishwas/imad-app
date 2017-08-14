@@ -19,6 +19,6 @@ button.onclick=function(){
       // nt done yet
   };
  //make the request
- request.open('GET',"http://karthikelc6.imad.hasura-app.io/counter",true);
+ request.open('GET','http://karthikelc6.imad.hasura-app.io/counter',true);
  request.send(null);
 };
